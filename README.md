@@ -1,0 +1,1 @@
+# kicad-USB_Dongle_Zigbee_3.0
